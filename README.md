@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Shahdat Hossain Emon  
 #### Aspiring Software Engineer | Computer Science Undergraduate | Research Enthusiast in AI, Robotics, and Blockchain
 
-![Aspiring Software Engineer | Research Enthusiast in AI, Robotics, and Blockchain](https://media.licdn.com/dms/image/v2/D5603AQGyjIiabPZWjQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720924863707?e=1735171200&v=beta&t=0BuYfrMaXixvSxBDNIX7yWHn2jNZ3oz8R449y61QVdY)
+![Aspiring Software Engineer | Research Enthusiast in AI, Robotics, and Blockchain]([[https://media.licdn.com/dms/image/v2/D5603AQGyjIiabPZWjQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720924863707?e=1735171200&v=beta&t=0BuYfrMaXixvSxBDNIX7yWHn2jNZ3oz8R449y61QVdY](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/280617358_565708011565890_4867412477379994361_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=JR-Jl9nRD3kQ7kNvgE4RSGG&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=AwuBOPqduhYATrvyHDEFpn-&oh=00_AYA_RxOJn-GFWoKUvy9m8n9_3d2TGsa3jHaDFFG8hlXXNQ&oe=672158B8)](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/280617358_565708011565890_4867412477379994361_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=JR-Jl9nRD3kQ7kNvgE4RSGG&_nc_zt=23&_nc_ht=scontent.fdac7-1.fna&_nc_gid=AwuBOPqduhYATrvyHDEFpn-&oh=00_AYA_RxOJn-GFWoKUvy9m8n9_3d2TGsa3jHaDFFG8hlXXNQ&oe=672158B8))
 
 ---
 
