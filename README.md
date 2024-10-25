@@ -64,9 +64,13 @@
 
 ---
 
-### 🎖️ **GitHub Archive Program Badge:**  
-[![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Emon3469/contributions?format=svg&private=true)](https://archiveprogram.github.com/)  
-*This badge represents my contributions to preserving open source software for future generations.*
----
+### 🏆 **GitHub Archive Program Contributor Badge**  
+[![GitHub Archive Badge](https://api.vaunt.dev/v1/github/entities/Emon3469/contributions?format=svg&private=true)](https://archiveprogram.github.com/)  
+
+> 🌐 *Preserving open-source contributions for future generations*  
+> This badge signifies my participation in safeguarding open-source software within the GitHub Archive Program.  
+
+---  
+
 
 **Fun Fact:** When I'm not coding, you’ll find me on the cricket field, applying lessons in teamwork and resilience to my coding challenges!
