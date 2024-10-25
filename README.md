@@ -41,7 +41,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emon3469&show_icons=true&theme=dark&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top_langs/?username=Emon3469&layout=compact&theme=dark&langs=C,C%2B%2B,Java" style="width: 48%;" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emon3469&layout=compact&theme=dark&langs_count=6" style="width: 48%;" alt="Most Used Languages"/>
 </div>
 
 
