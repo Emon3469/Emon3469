@@ -34,6 +34,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-mdsahadathossai2-2EC866?logo=hackerrank&logoColor=white&style=flat-square)](https://www.hackerrank.com/profile/mdsahadathossai2)
 [![Codeforces](https://img.shields.io/badge/Codeforces-emonsaad3469-E94F37?logo=codeforces&logoColor=white&style=flat-square)](https://codeforces.com/profile/emonsaad3469)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-mdsahadatho1r3p-32CD32?logo=geeksforgeeks&logoColor=white&style=flat-square)](https://www.geeksforgeeks.org/user/mdsahadatho1r3p/?ref=header_profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Fouzan__Emon12-orange?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/u/Fouzan_Emon12/)
 
 ---
 
