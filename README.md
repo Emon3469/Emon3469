@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Shahdat Hossain Emon  
 #### Aspiring Software Engineer | Computer Science Undergraduate | Research Enthusiast in AI, Robotics, and Blockchain
 
-![Aspiring Software Engineer | Computer Science Undergraduate | Research Enthusiast in AI, Robotics, and Blockchain(https://media.licdn.com/dms/image/v2/D5603AQGyjIiabPZWjQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720924863707?e=1736985600&v=beta&t=G699vdOxLl-QO57BSPe75tcEbVcebir9Nhf39k25-xo)
+[Aspiring Software Engineer | Computer Science Undergraduate | Research Enthusiast in AI, Robotics, and Blockchain](https://media.licdn.com/dms/image/v2/D5603AQGyjIiabPZWjQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1720924863707?e=1736985600&v=beta&t=G699vdOxLl-QO57BSPe75tcEbVcebir9Nhf39k25-xo)
+
 
 ---
 
