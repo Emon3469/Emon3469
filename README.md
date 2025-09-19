@@ -1,74 +1,245 @@
-### Hi there 👋, I'm Shahdat Hossain Emon  
-#### Aspiring Software Engineer | Computer Science Undergraduate | Research Enthusiast in AI, Robotics, and Blockchain
+# Hi there 👋, I'm **Shahdat Hossain Emon**
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Computer+Science+Undergraduate;AI+%26+Robotics+Enthusiast;Blockchain+Research+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+</div>
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emon3469&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Emon3469?label=Followers&style=social" alt="GitHub Followers" />
+</div>
 
 ---
+
+## 🚀 **About Me**
 
 **As an undergraduate in Computer Science,** I am passionate about AI, robotics, and blockchain. With a strong foundation in DSA, C, C++, Java, and full-stack development, I'm eager to be part of the next big wave of tech innovations.
 
 💡 I aim to create and innovate in collaborative environments, where I can push boundaries and learn from others. Balancing my passion for tech, I also enjoy playing cricket, a game that has taught me teamwork, discipline, and perseverance.
 
----
-
-### 🛠 **Skills:**  
-- **Computer Science & Engineering**  
-- **Languages:** C, C++, Java, Python  
-- **Full-stack Development**  
-- **Competitive Programming (Aspiring)**
-
----
-
-### 🔭 **Current Projects:**  
-- Building this profile page  
-- Learning Competitive Programming  
-- Preparing for Graduate School  
-- Engaging with Online Tech Communities
-
----
-
-### 🌐 **Connect with Me:**  
-[![GitHub](https://img.shields.io/badge/GitHub-Emon3469-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/Emon3469)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahdat_Hossain_Emon-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sahadat34/)
-[![Facebook](https://img.shields.io/badge/Facebook-Emon.90-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/mdsahadathossain.Emon.90/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-mdsahadathossai2-2EC866?logo=hackerrank&logoColor=white&style=flat-square)](https://www.hackerrank.com/profile/mdsahadathossai2)
-[![Codeforces](https://img.shields.io/badge/Codeforces-emonsaad3469-E94F37?logo=codeforces&logoColor=white&style=flat-square)](https://codeforces.com/profile/emonsaad3469)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-mdsahadatho1r3p-32CD32?logo=geeksforgeeks&logoColor=white&style=flat-square)](https://www.geeksforgeeks.org/user/mdsahadatho1r3p/?ref=header_profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Fouzan__Emon12-orange?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/u/Fouzan_Emon12/)
-
----
-
-### **My GitHub Journey** 🚀
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emon3469&show_icons=true&theme=dark&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emon3469&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 💻  Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emon3469&layout=compact&theme=dark&langs_count=6" style="width: 48%;" alt="Most Used Languages"/>
+## 🛠 **Technical Arsenal**
+
+<div align="center">
+
+### **Programming Languages**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Web Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Areas of Interest**
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-00979D?style=for-the-badge&logo=ros&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
+
+</div>
 
 ---
 
-### 🏆 **GitHub Trophies:**  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Emon3469&margin-w=15&theme=darkhub)
+## 🔭 **Current Focus Areas**
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎯 **Active Projects**
+- 🏗️ Building innovative web applications
+- 🤖 Exploring AI/ML implementations
+- 📚 Learning Competitive Programming
+- 🎓 Preparing for Graduate School
+
+</td>
+<td align="center" width="50%">
+
+### 🌱 **Learning Journey**
+- 🧠 Advanced Data Structures & Algorithms
+- 🔗 Blockchain Development
+- 🤖 Machine Learning & AI
+- 🏆 Competitive Programming Mastery
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔥 **Streak Stats:**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Emon3469&theme=highcontrast&hide_border=true)
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emon3469&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emon3469&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" width="48%" alt="Most Used Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emon3469&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
 
 ---
 
-### 🏆 **GitHub Archive Program Contributor Badge**  
-[![GitHub Archive Badge](https://api.vaunt.dev/v1/github/entities/Emon3469/contributions?format=svg&private=true)](https://archiveprogram.github.com/)  
+## 🏆 **Achievements & Recognition**
 
-> 🌐 *Preserving open-source contributions for future generations*  
-> This badge signifies my participation in safeguarding open-source software within the GitHub Archive Program.  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Emon3469&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
 
----  
+### 🎖️ **Special Recognition**
+<div align="center">
+  
+[![GitHub Archive Program](https://api.vaunt.dev/v1/github/entities/Emon3469/contributions?format=svg&private=true)](https://archiveprogram.github.com/)
 
+> 🌐 **GitHub Archive Program Contributor**  
+> *Preserving open-source contributions for future generations*  
+> This badge signifies my participation in safeguarding open-source software within the GitHub Archive Program.
 
-**Fun Fact:** When I'm not coding, you’ll find me on the cricket field, applying lessons in teamwork and resilience to my coding challenges!
+</div>
+
+---
+
+## 📈 **Coding Activity**
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Emon3469&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+</div>
+
+---
+
+## 🌐 **Connect & Collaborate**
+
+<div align="center">
+
+### **Professional Networks**
+[![GitHub](https://img.shields.io/badge/GitHub-Emon3469-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Emon3469)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahdat_Hossain_Emon-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sahadat34/)
+[![Facebook](https://img.shields.io/badge/Facebook-Emon.90-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mdsahadathossain.Emon.90/)
+
+### **Competitive Programming Platforms**
+[![HackerRank](https://img.shields.io/badge/HackerRank-mdsahadathossai2-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/mdsahadathossai2)
+[![Codeforces](https://img.shields.io/badge/Codeforces-emonsaad3469-E94F37?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/emonsaad3469)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-mdsahadatho1r3p-32CD32?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/mdsahadatho1r3p/?ref=header_profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Fouzan__Emon12-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/Fouzan_Emon12/)
+
+</div>
+
+---
+
+## 📚 **Featured Repositories**
+
+<div align="center">
+  <a href="https://github.com/Emon3469?tab=repositories&sort=updated">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emon3469&repo=Discord-Chat-System&theme=tokyonight&hide_border=true" alt="Discord Chat System"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Emon3469?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+  </a>
+</div>
+
+---
+
+## 🎯 **2024 Goals & Aspirations**
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🏆 **Academic Excellence**
+- 📖 Master Advanced Algorithms
+- 🎓 Maintain High GPA
+- 📝 Research Publications
+- 🏅 Academic Competitions
+
+</td>
+<td align="center" width="33%">
+
+### 💻 **Technical Growth**
+- 🚀 Open Source Contributions
+- 🔧 Full-Stack Mastery
+- 🤖 AI/ML Projects
+- 🏗️ System Design Skills
+
+</td>
+<td align="center" width="33%">
+
+### 🌟 **Professional Development**
+- 🤝 Industry Networking
+- 💼 Internship Opportunities
+- 🎤 Tech Community Speaking
+- 📈 Leadership Roles
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 **Philosophy & Motivation**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+> *"The best way to predict the future is to create it."* - Peter Drucker
+
+**My Mission:** To leverage technology as a force for positive change, creating innovative solutions that bridge the gap between human needs and technological possibilities.
+
+---
+
+## 🏏 **Beyond Code**
+
+<div align="center">
+  
+**Fun Fact:** When I'm not coding, you'll find me on the cricket field, applying lessons in teamwork and resilience to my coding challenges! 🏏
+
+*Cricket has taught me that success comes from consistent practice, strategic thinking, and never giving up - principles I apply to every line of code I write.*
+
+</div>
+
+---
+
+## 📊 **Weekly Development Breakdown**
+
+<!--START_SECTION:waka-->
+```text
+💻 Programming    ████████████████████░   80.0%
+📚 Learning       ████████░░░░░░░░░░░░░   40.0%
+🏏 Cricket        ████░░░░░░░░░░░░░░░░░   20.0%
+🤝 Networking     ██░░░░░░░░░░░░░░░░░░░   10.0%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  
+### 🌟 **"Code with Purpose, Build with Passion"** 🌟
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Emon3469&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+<sub>⚡ **Always learning, always growing, always coding!** ⚡</sub>
+
+</div>
