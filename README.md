@@ -125,13 +125,8 @@
 
 ## 📈 **Coding Activity**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Emon3469&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
-</div>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon3469&show_icons=true&locale=en&layout=compact" alt="emon3469" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emon3469&show_icons=true&locale=en" alt="emon3469" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emon3469&" alt="emon3469" /></p>
 
 ---
 
