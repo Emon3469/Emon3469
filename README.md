@@ -17,6 +17,18 @@
 
 💡 I aim to create and innovate in collaborative environments, where I can push boundaries and learn from others. Balancing my passion for tech, I also enjoy playing cricket, a game that has taught me teamwork, discipline, and perseverance.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emon3469&label=Profile%20views&color=0e75b6&style=flat" alt="emon3469" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emon3469" alt="emon3469" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/md_sahadat3469" target="blank"><img src="https://img.shields.io/twitter/follow/md_sahadat3469?logo=twitter&style=for-the-badge" alt="md_sahadat3469" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Emon3469?tab=repositories](https://github.com/Emon3469?tab=repositories)
+
+- 💬 Ask me about **- Data Structures & Algorithms (DSA) - C, C++, Java, and Full-Stack Development - Artificial Intelligence, Robotics & Blockchain - Building Scalable and Innovative Tech Solutions - Problem-Solving & Coding Challenges - Collaborative Project Development - Cricket 🏏 (Teamwork, Discipline & Perseverance)**
+
+- 📫 How to reach me **https://www.linkedin.com/in/sahadat34/**
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emon3469&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
