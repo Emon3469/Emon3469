@@ -127,8 +127,11 @@
 
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon3469&show_icons=true&locale=en&layout=compact" alt="emon3469" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=emon3469&show_icons=true&locale=en" alt="emon3469" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emon3469&show_icons=true&locale=en" alt="emon3469" /></p>
 </div>
+
+
+
 ---
 
 ## 🌐 **Connect & Collaborate**
