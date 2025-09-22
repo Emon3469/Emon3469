@@ -187,7 +187,7 @@
 
 ---
 
-## 🎯 **2024 Goals & Aspirations**
+## 🎯 **2025 Goals & Aspirations**
 
 <table align="center">
 <tr>
