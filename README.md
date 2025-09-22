@@ -17,8 +17,6 @@
 
 💡 I aim to create and innovate in collaborative environments, where I can push boundaries and learn from others. Balancing my passion for tech, I also enjoy playing cricket, a game that has taught me teamwork, discipline, and perseverance.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emon3469" alt="emon3469" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/md_sahadat3469" target="blank"><img src="https://img.shields.io/twitter/follow/md_sahadat3469?logo=twitter&style=for-the-badge" alt="md_sahadat3469" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Emon3469?tab=repositories](https://github.com/Emon3469?tab=repositories)
@@ -119,6 +117,7 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Emon3469&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emon3469" alt="emon3469" /></a> </p>
 </div>
 
 ### 🎖️ **Special Recognition**
