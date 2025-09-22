@@ -17,7 +17,7 @@
 
 💡 I aim to create and innovate in collaborative environments, where I can push boundaries and learn from others. Balancing my passion for tech, I also enjoy playing cricket, a game that has taught me teamwork, discipline, and perseverance.
 
-<p align="left"> <a href="https://twitter.com/md_sahadat3469" target="blank"><img src="https://img.shields.io/twitter/follow/md_sahadat3469?logo=twitter&style=for-the-badge" alt="md_sahadat3469" /></a> </p>
+<p align="center"> <a href="https://twitter.com/md_sahadat3469" target="blank"><img src="https://img.shields.io/twitter/follow/md_sahadat3469?logo=twitter&style=for-the-badge" alt="md_sahadat3469" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Emon3469?tab=repositories](https://github.com/Emon3469?tab=repositories)
 
