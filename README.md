@@ -264,8 +264,6 @@
   
 ### 🌟 **"Code with Purpose, Build with Passion"** 🌟
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Emon3469&icon=0&color=0)
-
 ---
 
 <sub>⚡ **Always learning, always growing, always coding!** ⚡</sub>
