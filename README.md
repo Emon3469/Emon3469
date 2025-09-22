@@ -175,7 +175,7 @@
 
 <div align="center">
   <a href="https://github.com/Emon3469?tab=repositories&sort=updated">
-    <img src="https://github.com/Emon3469/Real-Time-Chat-App-React-Node.js-MongoDB-Stream-SDK/raw/main/screenshot.png" alt="Realtime Chat System"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emon3469&repo=Discord-Chat-System&theme=tokyonight&hide_border=true" alt="Discord Chat System"/>
   </a>
 </div>
 
