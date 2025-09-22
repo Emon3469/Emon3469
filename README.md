@@ -25,10 +25,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/sahadat34/**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emon3469&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🛠 **Technical Arsenal**
@@ -137,6 +133,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Emon3469&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emon3469&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
