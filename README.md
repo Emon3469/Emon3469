@@ -17,8 +17,6 @@
 
 💡 I aim to create and innovate in collaborative environments, where I can push boundaries and learn from others. Balancing my passion for tech, I also enjoy playing cricket, a game that has taught me teamwork, discipline, and perseverance.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emon3469&label=Profile%20views&color=0e75b6&style=flat" alt="emon3469" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emon3469" alt="emon3469" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/md_sahadat3469" target="blank"><img src="https://img.shields.io/twitter/follow/md_sahadat3469?logo=twitter&style=for-the-badge" alt="md_sahadat3469" /></a> </p>
@@ -66,6 +64,21 @@
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
 
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/md_shahadathossain_d96d4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="md_shahadathossain_d96d4" height="30" width="40" /></a>
+<a href="https://twitter.com/md_sahadat3469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_sahadat3469" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sahadat34/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahadat34/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22653713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22653713" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/mdsahadathossain.emon.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdsahadathossain.emon.90" height="30" width="40" /></a>
+<a href="https://instagram.com/emon_34437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emon_34437" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/fidai_emon34" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fidai_emon34" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mdsahadathossai2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mdsahadathossai2" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/emonsaad3469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="emonsaad3469" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/fouzan_emon12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/fouzan_emon12/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/mdsahadatho1r3p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mdsahadatho1r3p/" height="30" width="40" /></a>
+</p>
 
 ---
 
