@@ -143,7 +143,7 @@
 ## 🏆 **Achievements & Recognition**
 
 <div align="center">
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emon3469&" alt="emon3469" /></p>
+   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emon3469" alt="emon3469" /></a> </p>
 </div>
 
 ### 🎖️ **Special Recognition**
