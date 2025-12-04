@@ -143,12 +143,7 @@
 ## 🏆 **Achievements & Recognition**
 
 <div align="center">
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon3469&show_icons=true&locale=en&layout=compact" alt="emon3469" /></p>
-
-   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emon3469&show_icons=true&locale=en" alt="emon3469" /></p>
-
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emon3469&" alt="emon3469" /></p>
-
 </div>
 
 ### 🎖️ **Special Recognition**
@@ -165,8 +160,8 @@
 ## 📈 **Coding Activity**
 
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emon3469&show_icons=true&locale=en&layout=compact" alt="emon3469" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=emon3469&show_icons=true&locale=en" alt="emon3469" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon3469&show_icons=true&locale=en&layout=compact" alt="emon3469" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emon3469&show_icons=true&locale=en" alt="emon3469" /></p>
 </div>
 
 ---
