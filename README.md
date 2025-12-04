@@ -143,8 +143,12 @@
 ## 🏆 **Achievements & Recognition**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emon3469&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emon3469" alt="emon3469" /></a> </p>
+   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon3469&show_icons=true&locale=en&layout=compact" alt="emon3469" /></p>
+
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emon3469&show_icons=true&locale=en" alt="emon3469" /></p>
+
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emon3469&" alt="emon3469" /></p>
+
 </div>
 
 ### 🎖️ **Special Recognition**
