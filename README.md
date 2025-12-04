@@ -160,7 +160,7 @@
 ## 📈 **Coding Activity**
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emon3469&show_icons=true&locale=en&layout=compact" alt="emon3469" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emon3469&label=Profile%20views&color=0e75b6&style=flat" alt="emon3469" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emon3469&show_icons=true&locale=en" alt="emon3469" /></p>
 </div>
 
