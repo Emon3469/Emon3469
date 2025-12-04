@@ -131,7 +131,6 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emon3469&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emon3469&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" width="48%" alt="Most Used Languages"/>
 </div>
 
