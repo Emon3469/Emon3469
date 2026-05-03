@@ -68,8 +68,17 @@ I'm a **Computer Science undergraduate** passionate about **AI, Robotics, and Bl
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emon3469&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emon3469&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emon3469&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emon3469&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emon3469&theme=tokyonight&utcOffset=6" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emon3469&theme=tokyonight" alt="Repos Per Language" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emon3469&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 <div align="center">
@@ -93,15 +102,24 @@ I'm a **Computer Science undergraduate** passionate about **AI, Robotics, and Bl
 ## 📌 Featured Project
 
 <div align="center">
-  <a href="https://github.com/Emon3469/Discord-Chat-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emon3469&repo=Discord-Chat-System&theme=tokyonight&hide_border=true" alt="Discord Chat System" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/Emon3469?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
-  </a>
+### 💬 Discord Chat System
+
+A real-time chat application built with modern web technologies — featuring multi-user messaging, channel-based communication, and a clean, Discord-inspired UI.
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Type-Full--Stack-blue?style=for-the-badge" alt="Type" />
+</p>
+
+<a href="https://github.com/Emon3469/Discord-Chat-System">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
+</a>
+&nbsp;
+<a href="https://github.com/Emon3469?tab=repositories">
+  <img src="https://img.shields.io/badge/All_Repositories-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
+</a>
+
 </div>
 
 ---
