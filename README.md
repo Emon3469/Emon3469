@@ -1,10 +1,12 @@
-<h1 align="center">Hi there 👋, I'm Shahdat Hossain Emon</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Aspiring+Software+Engineer;Computer+Science+Undergraduate;AI+%26+Robotics+Enthusiast;Blockchain+Research+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
-</div>
 
-<div align="center">
+<img src="./profile.svg" width="260" alt="Shahdat Hossain Emon" />
+
+# Hi there 👋, I'm Shahdat Hossain Emon
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Aspiring+Software+Engineer;Computer+Science+Undergraduate;AI+%26+Robotics+Enthusiast;Blockchain+Research+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+
+<p>
   <a href="https://github.com/Emon3469">
     <img src="https://komarev.com/ghpvc/?username=Emon3469&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
@@ -12,6 +14,8 @@
   <a href="https://twitter.com/md_sahadat3469">
     <img src="https://img.shields.io/twitter/follow/md_sahadat3469?style=social" alt="Twitter Follow" />
   </a>
+</p>
+
 </div>
 
 ---
