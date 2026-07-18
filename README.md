@@ -1,24 +1,31 @@
 <div align="center">
 
-<img src="./profile.svg" width="260" alt="Shahdat Hossain Emon" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8E2DE2&height=200&section=header&text=Shahdat%20Hossain%20Emon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20Blockchain%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-# Hi there 👋, I'm Shahdat Hossain Emon
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45" alt="Waving Hand"/>
+<h2>Hi there, I'm Shahdat 👋</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Aspiring+Software+Engineer;Computer+Science+Undergraduate;AI+%26+Robotics+Enthusiast;Blockchain+Research+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Computer+Science+Undergraduate;AI+%26+Robotics+Enthusiast;Blockchain+Research+Enthusiast;Full-Stack+Developer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1f2937&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Computer+Science+Undergraduate;AI+%26+Robotics+Enthusiast;Blockchain+Research+Enthusiast;Full-Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Computer+Science+Undergraduate;AI+%26+Robotics+Enthusiast;Blockchain+Research+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+</picture>
 
 <p>
-  <a href="https://github.com/Emon3469">
-    <img src="https://komarev.com/ghpvc/?username=Emon3469&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <img src="https://img.shields.io/github/followers/Emon3469?label=Followers&style=social" alt="GitHub Followers" />
-  <a href="https://twitter.com/md_sahadat3469">
-    <img src="https://img.shields.io/twitter/follow/md_sahadat3469?style=social" alt="Twitter Follow" />
-  </a>
+  <a href="https://www.linkedin.com/in/sahadat34/" target="_blank"><img height="26" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/linkedin.svg"></a>&nbsp;
+  <a href="https://twitter.com/md_sahadat3469" target="_blank"><img height="26" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/twitter-x.svg"></a>&nbsp;
+  <a href="https://www.facebook.com/mdsahadathossain.emon.90" target="_blank"><img height="26" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/facebook.svg"></a>&nbsp;
+  <a href="https://instagram.com/emon_34437" target="_blank"><img height="26" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg"></a>&nbsp;
+  <a href="https://stackoverflow.com/users/22653713" target="_blank"><img height="26" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/stackoverflow.svg"></a>
 </p>
 
-</div>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Emon3469&label=Profile%20Views&color=00d9ff&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Emon3469?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8E2DE2&height=3&width=100%"/>
+</div>
 
 ## 🚀 About Me
 
@@ -31,34 +38,34 @@ I'm a **Computer Science undergraduate** passionate about **AI, Robotics, and Bl
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/sahadat34/)**
 - ⚡ Fun fact: **When I'm not coding, you'll find me on the cricket field! 🏏**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00D9FF&height=3&width=100%"/>
 
 ## 🛠️ Tech Stack
 
-#### Languages
+#### Core Strengths
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,kotlin,dart,bash" alt="languages" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="45" height="45" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
 </p>
+
+#### Languages
+<p><img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,kotlin,dart,bash" alt="languages" /></p>
 
 #### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="frontend" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" alt="frontend" /></p>
 
 #### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres" alt="backend" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres" alt="backend" /></p>
 
 #### AI / ML / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="ai-ml" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="ai-ml" /></p>
 
 #### Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,nginx,aws,azure,postman,figma,vscode" alt="tools" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,nginx,aws,azure,postman,figma,vscode,linux" alt="tools" /></p>
 
 #### Areas of Interest
 <p>
@@ -67,7 +74,7 @@ I'm a **Computer Science undergraduate** passionate about **AI, Robotics, and Bl
   <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8E2DE2&height=3&width=100%"/>
 
 ## 📊 GitHub Stats
 
@@ -93,15 +100,13 @@ I'm a **Computer Science undergraduate** passionate about **AI, Robotics, and Bl
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emon3469&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Emon3469&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00D9FF&height=3&width=100%"/>
 
 ## 📌 Featured Project
 
@@ -126,8 +131,6 @@ A real-time chat application built with modern web technologies — featuring mu
 
 </div>
 
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -141,8 +144,6 @@ A real-time chat application built with modern web technologies — featuring mu
 
 </div>
 
----
-
 ## 💻 Competitive Programming
 
 <div align="center">
@@ -155,7 +156,7 @@ A real-time chat application built with modern web technologies — featuring mu
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8E2DE2&height=3&width=100%"/>
 
 ## 🎯 2025 Goals
 
@@ -166,13 +167,9 @@ A real-time chat application built with modern web technologies — featuring mu
 | Academic Competitions | AI/ML Project Portfolio | Tech Community Speaking |
 | Maintain High GPA | System Design Skills | Leadership Roles |
 
----
-
 ## 🏏 Beyond Code
 
 When I'm off the keyboard, I'm on the **cricket pitch**. The game has shaped how I approach engineering — *consistency over flashes, strategy over reaction, and never folding when the chase looks impossible.* Every line of code I write carries a bit of that mindset.
-
----
 
 ## 💡 Philosophy
 
@@ -180,12 +177,16 @@ When I'm off the keyboard, I'm on the **cricket pitch**. The game has shaped how
 
 **My Mission:** To leverage technology as a force for positive change — creating innovative solutions that bridge the gap between human needs and technological possibilities.
 
----
-
 <div align="center">
 
 ### 🌟 *Code with Purpose, Build with Passion* 🌟
 
 ⚡ **Always learning, always growing, always coding!** ⚡
 
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:00D9FF&height=120&section=footer"/>
+
+<div align="center">
+<sub>Made with ❤️ by Shahdat Hossain Emon &nbsp;•&nbsp; design polished with a nod to my friend Mohabbat's profile</sub>
 </div>
