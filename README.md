@@ -16,7 +16,6 @@
   <a href="https://twitter.com/md_sahadat3469" target="_blank"><img height="26" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/twitter-x.svg"></a>&nbsp;
   <a href="https://www.facebook.com/mdsahadathossain.emon.90" target="_blank"><img height="26" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/facebook.svg"></a>&nbsp;
   <a href="https://instagram.com/emon_34437" target="_blank"><img height="26" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/instagram.svg"></a>&nbsp;
-  <a href="https://stackoverflow.com/users/22653713" target="_blank"><img height="26" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/colored/stackoverflow.svg"></a>
 </p>
 
 <p>
