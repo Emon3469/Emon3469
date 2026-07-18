@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:8E2DE2&height=200&section=header&text=Shahdat%20Hossain%20Emon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20Blockchain%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="./profile.svg" width="260" alt="Shahdat Hossain Emon" />
 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45" alt="Waving Hand"/>
 <h2>Hi there, I'm Shahdat 👋</h2>
