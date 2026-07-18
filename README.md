@@ -102,11 +102,9 @@ I'm a **Computer Science undergraduate** passionate about **AI, Robotics, and Bl
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emon3469&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Emon3469&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00D9FF&height=3&width=100%"/>
-
 ## 📌 Featured Project
 
 <div align="center">
